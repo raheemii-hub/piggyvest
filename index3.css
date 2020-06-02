@@ -1,0 +1,57 @@
+.main-container{
+    background-color: midnightblue;
+}
+.logo{
+    margin: 15px;
+}
+.container{
+    margin: 0 auto;
+}
+.box{
+    background-color:white;
+    width: 500px;
+    height: 300px;
+    padding: 20px 10px 10px 40px;
+    margin: 0 auto;
+    border: none;
+    border-radius: 23px 23px 23px 0px;
+}
+.container-content{
+    text-align: center;
+    padding: 20px 0px;
+} 
+.heading{
+    font-family: monospace;
+    font-size: 25px;
+    color: midnightblue;
+    padding: 40px 80px 0px 80px;
+    margin: 20px;
+}
+#heading{
+    font-family: monospace;
+    font-size: 15px;
+    padding:0px 70px;
+}
+input[type=email]{
+    width: 86%;
+    padding: 20px;
+    background-color: #edf2f7;
+    border: none;
+    border-radius: 5px;
+}
+input[type=submit]{
+    width: 94%;
+    padding: 20px;
+    background-color: midnightblue;
+    border: none;
+    border-radius: 5px;
+}
+.form{
+    padding: 20px 0px;
+}
+.sub{
+    color: white;
+}
+.footer{
+    text-align: center;
+}
